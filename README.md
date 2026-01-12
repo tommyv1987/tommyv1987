@@ -14,7 +14,7 @@
 
 ## About
 
-Engineering leader with **10+ years** of experience delivering mission-critical infrastructure for blockchain, fintech, and e-commerce platforms. Expert in **Rust**, **Kubernetes**, and cloud automation.
+Engineering leader with **10+ years** of experience delivering infrastructure for blockchain, fintech, and e-commerce platforms. Expert in **Rust**, **Kubernetes**, and cloud automation.
 
 Currently leading cross-functional engineering teams at **Nym Technologies SA**, architecting privacy-focused blockchain infrastructure and VPN products.
 
